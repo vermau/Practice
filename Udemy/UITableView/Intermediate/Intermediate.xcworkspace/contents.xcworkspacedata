@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Custom Cells/01 - Custom Cells.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Headers &amp; Footers/02 - Headers &amp; Footers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Editing and Reordering/03 04 - Editing and Reordering.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Passing Data/05 - Passing Data.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Refresh Control/06 - Refresh Control.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Smooth Scrolling/07 - Smooth Scrolling.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Multiple Prototype Cells/08 - Multiple Prototype Cells.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Search Bar/09 - Search Bar.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Dynamic Type Adoption/10 - Dynamic Type Adoption.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Dynamic Cell Sizing/11 - Dynamic Cell Sizing.xcodeproj">
+   </FileRef>
+</Workspace>
